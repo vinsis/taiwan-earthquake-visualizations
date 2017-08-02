@@ -1,0 +1,58 @@
+
+
+#slider rect:hover{
+  fill:white;
+  cursor: pointer;
+}
+#slider text:hover{
+  fill:crimson;
+  cursor: pointer;
+}
+text{
+  fill:black;
+}
+.whiteText{
+  fill: white;
+}
+#yearxmonth rect:hover{
+  fill-opacity: 0.4;
+}
+#test g{
+  fill: black;
+}
+.magRect{
+  fill: indianred;
+  fill-opacity: 0.8;
+}
+.magRect:hover{
+  fill-opacity: 1;
+}
+.magRectMoving{
+  /*fill: indianred;*/
+  fill-opacity: 0.3;
+}
+.magRectMoving:hover{
+  fill-opacity: 1;
+}
+.depthG rect{
+  fill-opacity: 0.1;
+  fill: midnightblue;
+}
+.depthG rect:hover{
+  fill-opacity: 0.2;
+  fill: brown;
+}
+.magText{
+  fill: white;
+}
+.depthG:hover{
+  fill:skyblue;
+}
+
+.depthRect{
+  /*fill: cadetblue;*/
+  fill-opacity: 0.2;
+}
+.depthRect:hover{
+  fill-opacity: 1;
+}
